@@ -27,6 +27,8 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjustoo&layout=compact)
+
   [![Stats](https://github-readme-stats.vercel.app/api?username=gjustoo&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=gjustoo&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/gjustoo/gjustoo/blob/master/assets/saved.gif" width="195">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=gjustoo&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=gjustoo&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
