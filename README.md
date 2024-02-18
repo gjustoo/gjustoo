@@ -8,7 +8,6 @@
 - 🔭 I’m currently working as a Software Developer in Valencia, Spain
 - 👨🏻‍💻 Mainly using Java, Spring and Postgres.
 - 🌱 I’m currently learning Golang by building a compiler!
-- ⚡ Fun fact: My name is an anagram of "I Play Data"
   
 #### 📫 How to reach me
 
