@@ -1,7 +1,4 @@
-### Hello World!  <img src="https://github.com/gjustoo/gjustoo/blob/master/assets/Hi.gif" width="29px">
-
-  ![](https://komarev.com/ghpvc/?username=gjustoo&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
+# HI!  
   
 - 🔭 I’m currently working as a Software Developer in Valencia, Spain
 - 👨🏻‍💻 Mainly using Java, Spring and Postgres.
@@ -28,6 +25,6 @@
 
 #### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjustoo&layout=compact)
-
+  ![](https://komarev.com/ghpvc/?username=gjustoo&label=Profile%20Visits&color=blue&style=for-the-badge)
   [![Stats](https://github-readme-stats.vercel.app/api?username=gjustoo&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=gjustoo&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/gjustoo/gjustoo/blob/master/assets/saved.gif" width="195">
   
