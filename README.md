@@ -1,8 +1,7 @@
 # HI!  
   
-- 🔭 I’m currently working as a Software Developer in Valencia, Spain
-- 👨🏻‍💻 Mainly using Java, Spring and Postgres.
-- 🌱 I’m currently learning Golang by building a compiler!
+-  I’m currently working as a Software Developer in Valencia, Spain
+-  I’m currently learning Golang by building an interpreter!
   
 #### 📫 How to reach me
 
