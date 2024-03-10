@@ -1,7 +1,7 @@
 # HI!  
   
--  Hi, my name is Gabrie, i work as a Software Developer in Valencia, Spain
--  I’m currently learning Golang by building an interpreter!
+-  Hi, my name is Gabriel, I work as a Software Developer in Valencia, Spain
+
   
 #### 📫 How to reach me
 
