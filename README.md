@@ -1,6 +1,6 @@
 # HI!  
   
--  Hi, my name is Gabriel, I work as a Software Developer in Valencia, Spain
+-  Hi, my name is Gabriel, I work as a Software Developer in Spain
 
   
 #### 📫 How to reach me
