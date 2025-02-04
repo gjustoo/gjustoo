@@ -2,10 +2,10 @@
   
 -  Hi, my name is Gabriel, I work as a Software Developer in Spain
 
-  
+
 #### 📫 How to reach me
 
-   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/gjustoo_dev)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gjustoo/)  &nbsp; <a href="mailto:gabrijusto113@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/gjx00_)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gjustoo/)  &nbsp; <a href="mailto:gabrijusto113@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 #### 👨🏻‍💻 Languages and Tools <br />
 
