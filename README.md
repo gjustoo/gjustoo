@@ -20,7 +20,5 @@
 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#### 📈 GitHub Stats
   ![](https://komarev.com/ghpvc/?username=gjustoo&label=Profile%20Visits&color=blue&style=for-the-badge)
-  [![Stats](https://github-readme-stats.vercel.app/api?username=gjustoo&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=gjustoo&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/gjustoo/gjustoo/blob/master/assets/saved.gif" width="195">
   
