@@ -24,25 +24,4 @@
   ==================================== TEST =================================
 
 
-
-  // ---- Hardcoded tokens (should be detected) ----
-
-const API_TOKEN = "sk_live_1234567890abcdef1234567890abcdef"
-const API_KEY = "api_key_ABCDEF12345678901234567890"
-const SECRET_KEY = "supersecretvalue1234567890"
-const AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
-
-// ---- Placeholder values (should trigger history scanning) ----
-
-var API_TOKEN_PLACEHOLDER = "{TOKEN_API_ENV}"
-var API_KEY_PLACEHOLDER = "${API_KEY}"
 var SECRET_FROM_ENV = os.Getenv("API_SECRET")
-
-// ---- Environment configuration ----
-
-func LoadConfig() {
-	token := os.Getenv("API_TOKEN")
-	fmt.Println("Loaded token:", token)
-}
-
-API_TOKEN = token_test_12312312312
