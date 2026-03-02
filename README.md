@@ -22,6 +22,3 @@
 
   ![](https://komarev.com/ghpvc/?username=gjustoo&label=Profile%20Visits&color=blue&style=for-the-badge)
   ==================================== TEST =================================
-
-
-var SECRET_FROM_ENV = os.Getenv("API_SECRET")
